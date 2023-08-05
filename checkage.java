@@ -11,7 +11,7 @@ public class checkage {
   }
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
-    checkAge = scanner.nextInt();
+    checkAge(scanner.nextInt());
     scanner.close();
   }
 }
