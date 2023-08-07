@@ -1,4 +1,4 @@
 all:
-	javac checkage.java
-	java checkage
-	rm -r checkage.class
+	javac nota_alunos.java
+	java nota_alunos
+	rm -r nota_alunos.class
